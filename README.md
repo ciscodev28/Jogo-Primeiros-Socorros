@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-**Castor Rosa (nome do jogo) ** é um jogo educativo de RPG 2D que tem como objetivo ensinar, de maneira lúdica e interativa, conceitos básicos de primeiros socorros, prevenção de acidentes e segurança.
+-> Castor Rosa (nome do jogo) é um jogo educativo de RPG 2D que tem como objetivo ensinar, de maneira lúdica e interativa, conceitos básicos de primeiros socorros, prevenção de acidentes e segurança.
 
 A história acompanha Castor Rosa em uma aventura por três ilhas: Cidade, Floresta e Praia. Durante sua jornada, o personagem encontra diferentes situações e desafios que incentivam o jogador a reconhecer possíveis riscos, tomar decisões seguras e compreender a importância de procurar a ajuda de adultos e dos serviços de emergência.
 O projeto busca unir entretenimento e educação, utilizando exploração, diálogos, personagens e desafios interativos para tornar o aprendizado mais acessível e interessante.
