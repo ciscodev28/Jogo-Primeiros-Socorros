@@ -31,10 +31,7 @@ A aventura é dividida em três cenários principais:
 - **Praia:** explora situações relacionadas aos cuidados e à segurança no ambiente aquático.
 
 ## Status do projeto
-
 O projeto encontra-se em desenvolvimento. Novas funcionalidades, personagens, cenários e interações serão implementados gradualmente.
 
 ## Aviso educativo
-
-
-
+O jogo possui finalidade exclusivamente educativa e não substitui orientações de profissionais de saúde, treinamentos presenciais ou atendimento especializado. Em situações reais de emergência, o jogador deve procurar imediatamente um adulto responsável e os serviços de emergência.
