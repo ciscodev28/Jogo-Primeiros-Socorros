@@ -36,6 +36,5 @@ O projeto encontra-se em desenvolvimento. Novas funcionalidades, personagens, ce
 
 ## Aviso educativo
 
-O jogo possui finalidade exclusivamente educativa e não substitui orientações de profissionais de saúde, treinamentos presenciais ou atendimento especializado. Em situações reais de emergência, o jogador deve procurar imediatamente um adulto responsável e os serviços de emergência.
 
 
